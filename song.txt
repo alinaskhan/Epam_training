@@ -3,4 +3,9 @@ wall of shields
 standing strong 
 on this their chosen battlefield
 while being scared and sacred to the owe
+<<<<<<< HEAD
 Intimidating feelings arise 
+=======
+Intimidating feeling arises
+Soon sunrise follows with sunsets
+>>>>>>> c60d053a78d2f5e3679780ae6efbe67548503493
