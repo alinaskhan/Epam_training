@@ -7,4 +7,7 @@ Rise and shine
 New rise
 
 I can
-Branching and merging stage 
+Branching and merging stage
+
+branch feature 
+Changes 
