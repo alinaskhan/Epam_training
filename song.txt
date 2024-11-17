@@ -12,4 +12,8 @@ Branching and merging stage
 branch feature 
 Changes 
 
+<<<<<<< HEAD
 New change with Non fast forward merge
+=======
+Feature commit
+>>>>>>> feature
