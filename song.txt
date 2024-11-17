@@ -9,9 +9,3 @@ New rise
 I can
 Branching and merging stage
 
-branch feature 
-Changes 
-
-Feature commit
-Non fast forward
-
