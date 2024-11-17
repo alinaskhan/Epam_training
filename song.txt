@@ -13,3 +13,5 @@ branch feature
 Changes 
 
 Feature commit
+Non fast forward
+
