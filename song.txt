@@ -10,10 +10,6 @@ I can
 Branching and merging stage
 
 branch feature 
-Changes 
+Changes
 
-<<<<<<< HEAD
-New change with Non fast forward merge
-=======
-Feature commit
->>>>>>> feature
+main commit
