@@ -11,3 +11,5 @@ Branching and merging stage
 
 branch feature 
 Changes 
+
+New change with Non fast forward merge
