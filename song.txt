@@ -10,3 +10,6 @@ I can
 Branching and merging stage
 
 New
+
+Stage
+
